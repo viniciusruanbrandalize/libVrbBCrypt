@@ -4,4 +4,4 @@
 * Deve ser compilado na IDE Lazarus.
 
 # Bibliotecas de terceiros utilizadas: 
-* bcrypy -> https://github.com/viniciussanchez/bcrypt
+* bcrypt -> https://github.com/viniciussanchez/bcrypt
