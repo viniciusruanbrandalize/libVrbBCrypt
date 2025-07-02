@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Linux64 Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="projectlibVrbBCrypt.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="91" Y="12"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\bcrypt\src\BCrypt.Consts.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\bcrypt\src\BCrypt.Core.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\bcrypt\src\BCrypt.Intf.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\bcrypt\src\BCrypt.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="35"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\bcrypt\src\BCrypt.Types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="projectlibVrbBCrypt.lpr"/>
+        <Caret Line="15" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="projectlibVrbBCrypt.lpr"/>
+        <Caret Line="24" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="projectlibVrbBCrypt.lpr"/>
+        <Caret Line="20" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="projectlibVrbBCrypt.lpr"/>
+        <Caret Line="6" Column="54"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
