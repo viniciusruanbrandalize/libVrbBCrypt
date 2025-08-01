@@ -5,4 +5,4 @@
 * Baixar o projeto bcrypt listado nas dependências e adicionar no diretório "src\bcrypt\".
 
 # Dependências: 
-* bcrypt -> https://github.com/viniciussanchez/bcrypt
+* <a href="https://github.com/viniciussanchez/bcrypt">bcrypt</a>
