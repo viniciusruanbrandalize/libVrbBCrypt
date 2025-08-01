@@ -47,6 +47,8 @@ exports
   compareHashBCrypt,
   encryptBCrypt;
 
+{$R *.res}
+
 begin
 
 end.

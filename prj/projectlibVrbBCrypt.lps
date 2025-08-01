@@ -9,7 +9,8 @@
         <Filename Value="projectlibVrbBCrypt.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="51" Y="28"/>
+        <TopLine Value="15"/>
+        <CursorPos X="65" Y="35"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>

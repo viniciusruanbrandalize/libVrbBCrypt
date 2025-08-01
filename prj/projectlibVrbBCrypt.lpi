@@ -14,6 +14,13 @@
       <UseAppBundle Value="False"/>
       <ResourceType Value="res"/>
     </General>
+    <VersionInfo>
+      <UseVersionInfo Value="True"/>
+      <MinorVersionNr Value="1"/>
+      <RevisionNr Value="1"/>
+      <Language Value="0416"/>
+      <StringTable FileDescription="libVrbBCrypt" LegalCopyright="Copyright (c) 2025 Vinícius Ruan Brandalize" OriginalFilename="libVrbBCrypt" ProductName="libVrbBCrypt" ProductVersion="0.1.1"/>
+    </VersionInfo>
     <BuildModes>
       <Item Name="Win32 Release" Default="True"/>
       <Item Name="Win64 Release">
